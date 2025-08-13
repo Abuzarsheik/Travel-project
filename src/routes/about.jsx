@@ -1,6 +1,6 @@
 import Hero from "../components/hero";
 import Night from "../assets/night.jpg";
-import AboutData from "../data/aboutData";
+import AboutData from "../components/AboutData";
 
 export default function About() {
   return (
