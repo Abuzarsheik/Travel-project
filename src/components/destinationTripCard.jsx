@@ -1,4 +1,4 @@
-import DestinationCard from "./destinationCard.jsx";
+import DestinationCard from "./DestinationCard.jsx";
 import DestinationCardData from "../data/destinationCardData.js";
 import "../css/destinationCard.css";
 

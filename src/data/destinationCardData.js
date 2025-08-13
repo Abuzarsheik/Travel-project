@@ -1,7 +1,6 @@
 import Mountain5 from "../assets/5.jpg";
 import Mountain6 from "../assets/6.jpg";
 import Mountain7 from "../assets/8.jpg";
-import Mountain8 from "../assets/9.jpg";
 
 const destinationCard = [
   {
